@@ -1,0 +1,11 @@
+# (uncomment to add a dependency)
+ dependencies:
+  - name: FrissC3PieChart
+    version: 0.1
+    src: htmlwidgets/lib
+    script:
+        - c3/d3.v3.min.js
+        - c3/c3.min.js
+        - c3/underscore-min.js
+        - common/common.js
+    stylesheet: c3/c3.min.css

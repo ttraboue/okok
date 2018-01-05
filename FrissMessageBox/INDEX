@@ -1,0 +1,12 @@
+FrissMessageBox-package
+                        What the package does (short line) ~~ package
+                        title ~~
+addMessageBoxToPage     Adds includes for messagebox to page Should be
+                        called once on top of ui.r
+addMessageHandler       Adds javascript message handler to the page
+hideSplash              Hides a spalsh screen created with showSplash.
+showConfirm             Shows a confirm message.
+showFormModal           Shows a modal with custom html in it
+showMessage             Shows a temporary message.
+showPopup               shows simple pop up message
+showSplash              shows a simple splash screen

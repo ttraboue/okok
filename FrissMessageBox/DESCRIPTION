@@ -1,0 +1,13 @@
+Package: FrissMessageBox
+Type: Package
+Title: Contains functions to display various simple dhtmlx messageboxes
+        from http://dhtmlx.github.io/message/
+Version: 1.2
+Date: 2015-03-11
+Author: ESC
+Maintainer: Erwin Schuijtvlot <erwin.schuijtvlot@friss.eu>
+Description: The functions contain custom javascript code to display various message boxses
+License: Friss
+NeedsCompilation: no
+Packaged: 2016-05-19 15:38:07 UTC; eschuijtvlot
+Built: R 3.4.0; ; 2018-01-04 17:20:55 UTC; windows

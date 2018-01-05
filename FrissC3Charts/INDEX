@@ -1,0 +1,44 @@
+FrissC3BarChart         Friss C3 BarChart
+FrissC3BarChartOutput   C3 Bar chart output function for use in Shiny
+FrissC3ChartZoom        Zooms an existing C3Chart from shiny
+FrissC3Charts           <Add Title>
+FrissC3ChartsOutput     Widget output function for use in Shiny
+FrissC3Gauge            Friss C3 gauge
+FrissC3GaugeOutput      C3 gauge Widget output function for use in
+                        Shiny
+FrissC3LineBarChart     Friss Gauge
+FrissC3LineBarChartOutput
+                        C3 linebarchart output function for use in
+                        Shiny
+FrissC3LineChart        Friss C3 LineChart
+FrissC3LineChartOutput
+                        C3 chart output function for use in Shiny
+FrissC3PieChart         Friss C3 pie or donut chart
+FrissC3PieChartOutput   C3 gauge Widget output function for use in
+                        Shiny
+FrissC3StackedAreaChart
+                        Friss Gauge
+FrissC3StackedAreaChartOutput
+                        C3 gauge Widget output function for use in
+                        Shiny
+FrissC3StackedBarChart
+                        Friss C3 LineChart
+FrissC3StackedBarChartOutput
+                        C3 Bar chart output function for use in Shiny
+renderFrissC3BarChart   C3 Bar chart render function for use in Shiny
+renderFrissC3Charts     Widget render function for use in Shiny
+renderFrissC3Gauge      C3 gauge Widget render function for use in
+                        Shiny
+renderFrissC3LineBarChart
+                        C3 linebarchart render function for use in
+                        Shiny
+renderFrissC3LineChart
+                        C3 linebarchart render function for use in
+                        Shiny
+renderFrissC3PieChart   C3 gauge Widget render function for use in
+                        Shiny
+renderFrissC3StackedAreaChart
+                        C3 gauge Widget render function for use in
+                        Shiny
+renderFrissC3StackedBarChart
+                        C3 Bar chart render function for use in Shiny

@@ -1,0 +1,13 @@
+Package: FrissNotie
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyData: TRUE
+NeedsCompilation: no
+Packaged: 2016-05-17 13:19:48 UTC; eschuijtvlot
+Author: First Last [aut, cre]
+Maintainer: First Last <first.last@example.com>
+Built: R 3.4.0; ; 2018-01-04 17:21:05 UTC; windows

@@ -1,0 +1,8 @@
+# (uncomment to add a dependency)
+ dependencies:
+  - name: FrissC3Charts
+    version: 0.1 
+    src: htmlwidgets/lib/c3
+    script: d3.v3.min.js
+            c3.min.js  
+    stylesheet: c3.min.css
